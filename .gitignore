@@ -1,8 +1,9 @@
-   .env
-   *.db
-   __pycache__/
-   .venv/
-   node_modules/
-   dist/
-   .pytest_cache/
-   uploads/
+.env
+*.db
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dist/
+.pytest_cache/
+uploads/
